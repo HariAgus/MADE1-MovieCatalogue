@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sample_title">The Amazing Spiderman 2</string>
+    <string name="sample_category">Action, Adventure, Science</string>
+    <string name="sample_score">90%</string>
+    <string name="url_poster">https://image.tmdb.org/t/p/w500%s</string>
+    <string name="desc_image_poster">Image Poster</string>
+</resources>

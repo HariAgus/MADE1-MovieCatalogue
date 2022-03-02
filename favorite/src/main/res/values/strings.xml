@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="des_image_empty_file">Image Empty File</string>
+    <string name="no_data_favorite">No Data Favorite</string>
+</resources>

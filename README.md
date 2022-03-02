@@ -22,3 +22,6 @@ I use some technology :
 - [RxBinding] - Reactive Programming for UI
 - [Android Jetpack] - Gathering Library
 - And much more
+
+
+Of course, there are still many shortcomings, please fix and develop again

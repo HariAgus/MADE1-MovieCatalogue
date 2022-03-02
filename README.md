@@ -4,7 +4,7 @@
 
 ### Get Starts :star: :star: :star: :star: :star:
 
-Movie Catalogue is the last Android learning path repository in the coding course, some of which are implemented in this project :
+Movie Catalogue is the last Android learning path repository in the dicoding.com course, some of which are implemented in this project :
 - Clean Architecture
 - Reactive Programming
 - Dependency Injection

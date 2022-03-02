@@ -1,5 +1,7 @@
 # MADE 1 Movie Catalogue
 
+## Get Starts = :star: :star: :star: :star: :star:
+
 Movie Catalogue is the last Android learning path repository in the coding course, some of which are implemented in this project :
 - Clean Architecture
 - Reactive Programming
